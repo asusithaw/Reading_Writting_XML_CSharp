@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Batch_01>
+	
+	<Student id = "16APC2797">
+		<name>Susitha</name>
+		<address>Bandaragama</address>
+		<age>26</age>
+	</Student>
+	
+	<Student id ="16APC2789">
+		<name>Kamal</name>
+		<address>Peradeniya</address>
+		<age>27</age>
+	</Student>
+
+	<Student id ="16APC2756">
+		<name>Isuru</name>
+		<address>Peradeniya</address>
+		<age>23</age>
+	</Student>
+	
+</Batch_01>

@@ -1,0 +1,18 @@
+D:\ASP.net-2\XML _Reading_Writting\XML _Reading_Writting\obj\Debug\net6.0-windows\XML _Reading_Writting.csproj.AssemblyReference.cache
+D:\ASP.net-2\XML _Reading_Writting\XML _Reading_Writting\obj\Debug\net6.0-windows\XML__Reading_Writting.Form1.resources
+D:\ASP.net-2\XML _Reading_Writting\XML _Reading_Writting\obj\Debug\net6.0-windows\XML _Reading_Writting.csproj.GenerateResource.cache
+D:\ASP.net-2\XML _Reading_Writting\XML _Reading_Writting\obj\Debug\net6.0-windows\XML _Reading_Writting.GeneratedMSBuildEditorConfig.editorconfig
+D:\ASP.net-2\XML _Reading_Writting\XML _Reading_Writting\obj\Debug\net6.0-windows\XML _Reading_Writting.AssemblyInfoInputs.cache
+D:\ASP.net-2\XML _Reading_Writting\XML _Reading_Writting\obj\Debug\net6.0-windows\XML _Reading_Writting.AssemblyInfo.cs
+D:\ASP.net-2\XML _Reading_Writting\XML _Reading_Writting\obj\Debug\net6.0-windows\XML _Reading_Writting.csproj.CoreCompileInputs.cache
+D:\ASP.net-2\XML _Reading_Writting\XML _Reading_Writting\bin\Debug\net6.0-windows\XML _Reading_Writting.exe
+D:\ASP.net-2\XML _Reading_Writting\XML _Reading_Writting\bin\Debug\net6.0-windows\STUDENTFile.xml
+D:\ASP.net-2\XML _Reading_Writting\XML _Reading_Writting\bin\Debug\net6.0-windows\XML _Reading_Writting.deps.json
+D:\ASP.net-2\XML _Reading_Writting\XML _Reading_Writting\bin\Debug\net6.0-windows\XML _Reading_Writting.runtimeconfig.json
+D:\ASP.net-2\XML _Reading_Writting\XML _Reading_Writting\bin\Debug\net6.0-windows\XML _Reading_Writting.dll
+D:\ASP.net-2\XML _Reading_Writting\XML _Reading_Writting\bin\Debug\net6.0-windows\XML _Reading_Writting.pdb
+D:\ASP.net-2\XML _Reading_Writting\XML _Reading_Writting\obj\Debug\net6.0-windows\XML _Reading_Writting.dll
+D:\ASP.net-2\XML _Reading_Writting\XML _Reading_Writting\obj\Debug\net6.0-windows\refint\XML _Reading_Writting.dll
+D:\ASP.net-2\XML _Reading_Writting\XML _Reading_Writting\obj\Debug\net6.0-windows\XML _Reading_Writting.pdb
+D:\ASP.net-2\XML _Reading_Writting\XML _Reading_Writting\obj\Debug\net6.0-windows\XML _Reading_Writting.genruntimeconfig.cache
+D:\ASP.net-2\XML _Reading_Writting\XML _Reading_Writting\obj\Debug\net6.0-windows\ref\XML _Reading_Writting.dll
