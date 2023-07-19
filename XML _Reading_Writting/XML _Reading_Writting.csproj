@@ -10,10 +10,14 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <None Remove="Labour.xml" />
     <None Remove="STUDENTFile.xml" />
   </ItemGroup>
 
   <ItemGroup>
+    <EmbeddedResource Include="Labour.xml">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
     <EmbeddedResource Include="STUDENTFile.xml">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </EmbeddedResource>

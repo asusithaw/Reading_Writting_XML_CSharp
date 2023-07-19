@@ -16,3 +16,4 @@ D:\ASP.net-2\XML _Reading_Writting\XML _Reading_Writting\obj\Debug\net6.0-window
 D:\ASP.net-2\XML _Reading_Writting\XML _Reading_Writting\obj\Debug\net6.0-windows\XML _Reading_Writting.pdb
 D:\ASP.net-2\XML _Reading_Writting\XML _Reading_Writting\obj\Debug\net6.0-windows\XML _Reading_Writting.genruntimeconfig.cache
 D:\ASP.net-2\XML _Reading_Writting\XML _Reading_Writting\obj\Debug\net6.0-windows\ref\XML _Reading_Writting.dll
+D:\ASP.net-2\XML _Reading_Writting\XML _Reading_Writting\bin\Debug\net6.0-windows\Labour.xml
